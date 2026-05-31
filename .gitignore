@@ -1,0 +1,137 @@
+# =========================================
+# Dependencies
+# =========================================
+node_modules/
+
+# =========================================
+# Next.js / React
+# =========================================
+.next/
+out/
+dist/
+build/
+.next-cache/
+
+# =========================================
+# Environment Variables
+# =========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Keep template env visible
+!.env.example
+
+# =========================================
+# Logs
+# =========================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================================
+# Vercel / Deployment
+# =========================================
+.vercel/
+
+# =========================================
+# TypeScript
+# =========================================
+*.tsbuildinfo
+next-env.d.ts
+
+# =========================================
+# Python
+# =========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+.venv/
+env/
+ENV/
+
+# =========================================
+# AI / RAG / Vector Databases
+# =========================================
+
+# Vector DBs
+chroma_db/
+vectorstores/
+faiss_index/
+
+# Downloaded / local models
+models/
+
+# LangChain caches
+.langchain/
+
+# =========================================
+# Databases
+# =========================================
+*.sqlite
+*.sqlite3
+*.db
+
+# =========================================
+# Uploads / Temp Files
+# =========================================
+uploads/
+temp/
+tmp/
+
+# =========================================
+# Testing / Coverage
+# =========================================
+coverage/
+playwright-report/
+test-results/
+.pytest_cache/
+
+# =========================================
+# Cache
+# =========================================
+.cache/
+turbo/
+.parcel-cache/
+
+# =========================================
+# VSCode / IDE
+# =========================================
+.vscode/
+.idea/
+
+# =========================================
+# macOS
+# =========================================
+.DS_Store
+
+# =========================================
+# Misc
+# =========================================
+*.swp
+*.swo
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Supabase
+.supabase/
+
+# FastAPI
+instance/
+
+# Windows
+Thumbs.db
+
+# LangSmith
+.langsmith/
