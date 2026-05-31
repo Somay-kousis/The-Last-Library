@@ -1,3 +1,13 @@
+---
+title: archivist_rowan_statement
+category: contradictory_testimony
+priority: 10
+memory_type: witness
+retrieval_mode: truth
+volatility: stable
+source_type: markdown_memory
+---
+
 # Testimony of Archivist Rowan
 
 Recorded 11 days after the disappearance.

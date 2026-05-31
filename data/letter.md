@@ -1,3 +1,13 @@
+---
+title: letter
+category: entry_clue
+priority: 10
+memory_type: intro
+retrieval_mode: always
+volatility: stable
+source_type: markdown_memory
+---
+
 # Letter Found at the Entrance
 
 To whoever enters after me,

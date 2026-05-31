@@ -1,3 +1,13 @@
+---
+title: missing_visitor_fragment
+category: corrupted_memory
+priority: 10
+memory_type: hidden_truth
+retrieval_mode: revelation
+volatility: unstable
+source_type: markdown_memory
+---
+
 # Fragment Recovered From Shelf 19
 
 Document Status: Corrupted

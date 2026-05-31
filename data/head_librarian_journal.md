@@ -1,3 +1,13 @@
+---
+title: head_librarian_journal
+category: core_testimony
+priority: 10
+memory_type: primary_witness
+retrieval_mode: truth
+volatility: stable
+source_type: markdown_memory
+---
+
 # Journal of Elias Voss
 
 ## Head Librarian

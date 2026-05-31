@@ -1,3 +1,13 @@
+---
+title: diary
+category: visitor_account
+priority: 8
+memory_type: witness
+retrieval_mode: clue
+volatility: stable
+source_type: markdown_memory
+---
+
 # Visitor's Diary
 
 ## September 3

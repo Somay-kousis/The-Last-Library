@@ -1,3 +1,13 @@
+---
+title: newspaper
+category: public_record
+priority: 7
+memory_type: official_version
+retrieval_mode: context
+volatility: stable
+source_type: markdown_memory
+---
+
 # The Chronicle
 
 ## Local Library Closed Following Structural Concerns

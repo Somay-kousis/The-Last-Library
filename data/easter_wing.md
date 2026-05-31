@@ -1,3 +1,13 @@
+---
+title: easter_wing
+category: general
+priority: 5
+memory_type: general
+retrieval_mode: query_only
+volatility: medium
+source_type: markdown_memory
+---
+
 # Report on the Closure of the Eastern Wing
 
 Archive Reference: EW-17

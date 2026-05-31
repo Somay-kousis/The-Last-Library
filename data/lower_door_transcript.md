@@ -1,3 +1,13 @@
+---
+title: lower_door_transcript
+category: final_revelation
+priority: 10
+memory_type: ending
+retrieval_mode: final_truth
+volatility: impossible
+source_type: markdown_memory
+---
+
 # Transcript Recovered Beyond the Lower Door
 
 Classification: Impossible
